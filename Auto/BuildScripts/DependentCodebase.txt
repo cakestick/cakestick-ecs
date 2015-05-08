@@ -1,0 +1,8 @@
+?cd=Source\Function
+ecs.svfLoginNameFromXML.sql
+ecs.svfDatabaseNameFromXML.sql
+ecs.svfSchemaNameFromXML.sql
+ecs.svfObjectNameFromXML.sql
+ecs.svfObjectTypeFromXML.sql
+ecs.svfCallingDb.sql
+

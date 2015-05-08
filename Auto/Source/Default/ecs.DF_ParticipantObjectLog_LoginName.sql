@@ -1,0 +1,1 @@
+alter table ecs.ParticipantObjectLog add constraint DF_ParticipantObjectLog_LoginName default system_user for LoginName;

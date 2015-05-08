@@ -1,0 +1,1 @@
+create nonclustered index IX_ParticipantObject_ParticipantId on ecs.ParticipantObject(ParticipantId);

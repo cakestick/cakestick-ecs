@@ -1,0 +1,16 @@
+?cd=Source\Table
+ecs.Tally.sql
+ecs.DDLEvent.sql
+ecs.Script.sql
+ecs.Config.sql
+ecs.Spind.sql
+ecs.ECSLog.sql
+ecs.ECSValue.sql
+ecs.UserValue.sql
+ecs.ObjectType.sql
+ecs.StatusBitmask.sql
+ecs.Participant.sql
+ecs.ParticipantLog.sql
+ecs.ParticipantObject.sql
+ecs.ParticipantObjectLog.sql
+ecs.ECSToSQLTypes.sql

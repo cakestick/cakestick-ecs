@@ -1,0 +1,4 @@
+?cd=Source\Index
+ecs.ParticipantLog.IX_ParticipantLog_ParticipantId.sql
+ecs.ParticipantObject.IX_ParticipantObject_ParticipantId.sql
+ecs.ParticipantObject.IX_ParticipantObject_ObjectTypeId.sql

@@ -1,0 +1,8 @@
+?cd=Source\Data
+data.ecs.Tally.sql
+data.ecs.Script.sql
+data.ecs.ConfigValue.sql
+ecs.ecsValue.sql
+ecs.UserValue.sql
+ecs.StatusBitmask.sql
+ecs.ECSToSQLTypes.sql

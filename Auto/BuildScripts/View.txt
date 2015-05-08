@@ -1,0 +1,2 @@
+?cd=Source\View
+ecs.vwUserValueToSQLType.sql

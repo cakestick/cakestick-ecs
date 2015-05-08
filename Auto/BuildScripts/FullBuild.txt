@@ -1,0 +1,14 @@
+/Source/DropAll.sql
+?inc=schema.txt
+?inc=type.txt
+?inc=DependentCodebase.txt
+?inc=Table.txt
+?inc=PrimaryKey.txt
+?inc=ForeignKey.txt
+?inc=Default.txt
+?inc=Index.txt
+?inc=View.txt
+?inc=Function.txt
+?inc=Procedure.txt
+?inc=Data.txt
+/Source/MasterProc.sql

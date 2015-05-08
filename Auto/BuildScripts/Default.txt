@@ -1,0 +1,14 @@
+?cd=Source\Default
+ecs.DF_Spind_ActiveAtUTC.sql
+ecs.DF_ecsLog_LoggedAtUTC.sql
+ecs.DF_ecsLog_LogUser.sql
+ecs.DF_ecsLog_Spid.sql
+ecs.DF_ecsLog_DBName.sql
+ecs.DF_DDLEvent_CreatedAtUCT.sql
+ecs.DF_Participant_CreatedAtUTC.sql
+ecs.DF_ParticipantLog_ActionUTC.sql
+ecs.DF_ParticipantLog_LoginName.sql
+ecs.DF_ParticipantLog_ActionText.sql
+ecs.DF_ParticipantObjectLog_ActionUTC.sql
+ecs.DF_ParticipantObjectLog_LoginName.sql
+ecs.DF_ParticipantObjectLog_ActionText.sql

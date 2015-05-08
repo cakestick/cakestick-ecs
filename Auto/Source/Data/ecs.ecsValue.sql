@@ -1,0 +1,20 @@
+insert ecs.ecsValue ([ecsValue],[ECSDesc])
+values
+('CHECK CONSTRAINT','Check Constraint'),
+('CODEBASE INDEX','Codebase Index'),
+('DB','Database'),
+('DEFAULT','Default'),
+('FOREIGN KEY','Foreign key'),
+('FUNCTION','Function'),
+('INDEX','Index'),
+('INLINE FUNCTION','Inline Function'),
+('PRIMARY KEY','Primary key'),
+('SCALAR FUNCTION','Scalar function'),
+('STORED PROCEDURE','Stored Procedure'),
+('SYNONYM','Synonym'),
+('TABLE','Table'),
+('TABLE FUNCTION','Table function'),
+('TRIGGER','Trigger'),
+('UDDT','User-Defined Data type'),
+('VIEW','View'),
+('OBJ','OBJECT');

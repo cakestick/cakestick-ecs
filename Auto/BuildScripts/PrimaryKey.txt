@@ -1,0 +1,16 @@
+?cd=Source\PrimaryKey
+ecs.PK_Tally.sql
+ecs.PK_Script.sql
+ecs.PK_Config.sql
+ecs.PK_Spind.sql
+ecs.PK_ecsLog.sql
+ecs.PK_ecsValue.sql
+ecs.PK_UserValue.sql
+ecs.PK_DDLEvent.sql
+ecs.PK_ObjectType.sql
+ecs.PK_Participant.sql
+ecs.PK_StatusBitmask.sql
+ecs.PK_ParticipantLog.sql
+ecs.PK_ParticipantObject.sql
+ecs.PK_ParticipantObjectLog.sql
+ecs.AK_ECSToSQLTypes.sql
